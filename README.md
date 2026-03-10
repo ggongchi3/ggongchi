@@ -6,3 +6,6 @@ Software/Web Development, Database
 
 ## 목표
 GitHub 협업 경험 쌓기
+
+## 취미
+달리기
